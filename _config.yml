@@ -1,0 +1,14 @@
+layout_spectrum: 0.13996384711936116
+typography_spectrum: 0.4434156743809581
+color:
+  brandStrength: 0.6333853169344366
+  lightness: 0.9106518209446222
+  saturation: 0.09515044582076371
+  rhythmicContrast: 0.5986014069058001
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: vcrgrid
